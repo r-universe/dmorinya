@@ -2,18 +2,18 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bayesZIB"]
-	path = bayesZIB
-	url = https://github.com/cran/bayesZIB
-[submodule "miRecSurv"]
-	path = miRecSurv
-	url = https://github.com/cran/miRecSurv
 [submodule "MisRepARMA"]
 	path = MisRepARMA
 	url = https://github.com/cran/MisRepARMA
+[submodule "bayesZIB"]
+	path = bayesZIB
+	url = https://github.com/cran/bayesZIB
 [submodule "mSimCC"]
 	path = mSimCC
 	url = https://github.com/cran/mSimCC
+[submodule "miRecSurv"]
+	path = miRecSurv
+	url = https://github.com/cran/miRecSurv
 [submodule "survsim"]
 	path = survsim
 	url = https://github.com/cran/survsim
