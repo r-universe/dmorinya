@@ -8,12 +8,21 @@
 [submodule "bayesZIB"]
 	path = bayesZIB
 	url = https://github.com/cran/bayesZIB
+[submodule "hermite"]
+	path = hermite
+	url = https://github.com/cran/hermite
+[submodule "linERR"]
+	path = linERR
+	url = https://github.com/cran/linERR
 [submodule "mSimCC"]
 	path = mSimCC
 	url = https://github.com/cran/mSimCC
 [submodule "miRecSurv"]
 	path = miRecSurv
 	url = https://github.com/cran/miRecSurv
+[submodule "radir"]
+	path = radir
+	url = https://github.com/cran/radir
 [submodule "survsim"]
 	path = survsim
 	url = https://github.com/cran/survsim
